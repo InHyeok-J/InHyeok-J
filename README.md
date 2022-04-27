@@ -6,10 +6,3 @@
 <span><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="64" height="64" /></span>
 </div>
 
-### Contact
-
-[Resume](https://peppered-viscount-bd6.notion.site/828632c8d59e473c9ac4782bd23e8013)
-
-
-### Algo
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=benchpress)](https://solved.ac/benchpress/)
