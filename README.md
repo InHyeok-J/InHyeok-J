@@ -59,8 +59,8 @@
 </table>
 
 ## 🏃‍♀️ Actvitiy
-- EC EndlessCreation  
-- GDSC SeoulTech Web Part
+- SeoulTech, Department of Computer Engineering EC EndlessCreation
+- GDSC 1th SeoulTech Web Part
 - SSAFY 9th~
 
 ## 🏋🏻 stat
