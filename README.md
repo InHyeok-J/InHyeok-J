@@ -45,7 +45,7 @@
     <td>2021</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/InHyeok-J/STartApp-Back">STartApp - 서울과기대 총학생회 서비스 앱</a></td>
+    <td><a href="https://github.com/InHyeok-J/STartApp-Back">STartApp -  총학생회 서비스 앱</a></td>
     <td>2022 축제 앱 릴리즈</td>
     <td>Spring Boot</td>
     <td>2022</td>
@@ -59,7 +59,7 @@
 </table>
 
 ## 🏃‍♀️ Actvitiy
-- SeoulTech, Department of Computer Engineering EC EndlessCreation
+- Department of Computer Engineering EC EndlessCreation
 - GDSC SeoulTech Web Part 1st
 - SSAFY 9th~
 
