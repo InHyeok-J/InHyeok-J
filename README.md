@@ -61,7 +61,8 @@
 ## 🏃‍♀️ Actvitiy
 - Department of Computer Engineering EC EndlessCreation
 - GDSC SeoulTech Web Part 1st
-- SSAFY 9th~
+- SSAFY 9th
+- SW Maestro 15
 
 ## 🏋🏻 stat
 [![Solved.ac
