@@ -15,9 +15,6 @@
 - SSAFY 9th
 - SW Maestro 15
 
-## 🏋🏻 stat
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=benchpress)](https://solved.ac/benchpress)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InHyeok-J&show_icons=true&theme=radical)
-
+## other
+- blog : https://until.blog/@joby
 
